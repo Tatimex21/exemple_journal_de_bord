@@ -2,7 +2,7 @@
 ## Insérer une image
 Insérer une image ici: 
 
-![image1]image/
+![image1](image/Earth%20Day%20(web).jpg)
 Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
 
 ## Liens vers des nouvelles de l'industrie
