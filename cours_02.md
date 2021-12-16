@@ -12,8 +12,8 @@ Les directeurs artistiques créent, coordonnent et supervisent l'aspect visuel e
 Le développement web frontal (aussi appelé front-end en anglais) correspond aux productions HTML, CSS et JavaScript d’une page internet ou d’une application qu’un utilisateur peut voir et avec lesquelles il peut interagir directement.
 
 ### Emploi 4 - Spécialiste QA
-
+Il est celui qui teste, teste et teste encore un produit, avant sa commercialisation, et qui est le garant du bon fonctionnement de ce dernier
 
 ### Emploi 5 - Gestionnaire de projet
-
+Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port et coordonne tous les acteurs concernés par le projet, que ce soit par sa réalisation ou ses livrables. Il gère les impacts du projet, à la fois pendant sa réalisation et après sa finalisation. 
 
