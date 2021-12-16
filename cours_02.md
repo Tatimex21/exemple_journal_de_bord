@@ -85,6 +85,20 @@ L’intégrateur intervient souvent en fin de parcours dans la création du site
 ### Emploi 4 - Spécialiste QA
 Les testeurs assurance qualité testent et évaluent les performances des logiciels, applications et autres systèmes en phase de prélancement. En tant que testeur d'assurance qualité, vous aidez votre employeur à trouver et régler les problèmes liés aux logiciels, applications et autres produits avant qu'ils ne soient dévoilés au public.
 
+Ses tâches :
+
+• Évaluer des applications de logiciel
+
+• Développer des plans de test pour logiciel
+
+• Documenter les problèmes de performance
+
+• Installer et configurer les logiciels et le matériel informatique
+
+• Réaliser des tests et analyser les résultats
+
 ### Emploi 5 - Gestionnaire de projet
 Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port et coordonne tous les acteurs concernés par le projet, que ce soit par sa réalisation ou ses livrables. Il gère les impacts du projet, à la fois pendant sa réalisation et après sa finalisation. 
+
+Ses tâches :
 
