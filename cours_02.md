@@ -46,6 +46,20 @@ Services créatifs en entreprise.
 ### Emploi 3 - Développement Front-End
 Le développement web frontal (aussi appelé front-end en anglais) correspond aux productions HTML, CSS et JavaScript d’une page internet ou d’une application qu’un utilisateur peut voir et avec lesquelles il peut interagir directement.
 
+Le développeur front-end s’occupe de toute la partie visible du site : il doit développer des interfaces au code optimisé, qui facilitent l’accès des utilisateurs au contenu. Pour cela, il maitrise le CSS et le HTML5, CSS et JavaScript afin de respecter les normes W3C. Grâce à une bonne connaissance des langages de programmation, le développeur front-end optimise l’interface du site, tout en respectant les impératifs liés à l’accessibilité, la compatibilité des navigateurs et les terminaux (desktop, mobile, tablette).
+
+Ses tâches :
+
+• Créer le code du site de manière à ce que celui-ci soit durable et réutilisable
+
+• Intégrer les différents éléments
+
+• S’assurer de la lisibilité du contenu selon les différents navigateurs
+
+• Penser l’expérience utilisateur selon les écrans (ordinateur, tablette, téléphone)
+
+• Effectuer des tests et créer des correctifs
+
 ### Emploi 4 - Spécialiste QA
 Il est celui qui teste, teste et teste encore un produit, avant sa commercialisation, et qui est le garant du bon fonctionnement de ce dernier
 
