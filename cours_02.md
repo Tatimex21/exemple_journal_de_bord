@@ -68,6 +68,8 @@ Ses tâches :
 
 • Effectuer des tests et créer des correctifs
 
+L’intégrateur intervient souvent en fin de parcours dans la création du site, et il doit collaborer avec les différentes parties qui ont contribué à la création du site, tels que les programmeurs, les graphistes, et les spécialistes du référencement
+
 ### Emploi 4 - Spécialiste QA
 Il est celui qui teste, teste et teste encore un produit, avant sa commercialisation, et qui est le garant du bon fonctionnement de ce dernier
 
