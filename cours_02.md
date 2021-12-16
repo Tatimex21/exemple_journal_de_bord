@@ -16,6 +16,7 @@ Tâches:
 -Proposer des modifications pour améliorer l'expérience utilisateur
 
 Il travaille dans des Sociétés d'État, agences de communication, agences de publicité, entreprises ayant un site Web.
+Il collabore en permanence avec d’autres membres de l’équipe tels que le marketing, la rédaction, la programmation, le web designer, le UI design
 
 ### Emploi 2 - Directeur artistique
 Les directeurs artistiques créent, coordonnent et supervisent l'aspect visuel et artistique d'une production publicitaire (imprimée ou électronique), médiatique (télévision, radio, etc.), artistique (film, vidéo, danse, orchestre, pièce de théâtre, spectacle, etc.) ou de projets audiovisuels ou multimédias.
