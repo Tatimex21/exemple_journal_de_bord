@@ -7,21 +7,21 @@ Le designer UX (design de l’expérience utilisateur) a pour objectif d’insé
 
 Ses tâches :
 
--Recueillir des données quant au comportement et besoins des utilisateurs.
+• Recueillir des données quant au comportement et besoins des utilisateurs.
 
--Définir l'architecture logique de l'information.
+• Définir l'architecture logique de l'information.
 
--Réaliser des prototypes, sketch et wireframe.
+• Réaliser des prototypes, sketch et wireframe.
 
--Associer les objectifs de l'entreprise et les besoins des utilisateurs.
+• Associer les objectifs de l'entreprise et les besoins des utilisateurs.
 
--Effectuer des tests sur les prototypes.
+• Effectuer des tests sur les prototypes.
 
--Collaborer avec d'autres spécialistes pour la réalisation du projet Web.
+• Collaborer avec d'autres spécialistes pour la réalisation du projet Web.
 
--Surveiller l'utilisabilité du site ou de l'app.
+• Surveiller l'utilisabilité du site ou de l'app.
 
--Proposer des modifications pour améliorer l'expérience utilisateur.
+• Proposer des modifications pour améliorer l'expérience utilisateur.
 
 
 Il travaille dans des Sociétés d'État, agences de communication, agences de publicité, entreprises ayant un site Web.
@@ -34,26 +34,27 @@ Le directeur artistique pilote une équipe de graphistes, de photographes, d’i
 
 Ses tâches :
 
-Analyser la communication du client, puis en déduire et créer les visuels appropriés.
+• Analyser la communication du client, puis en déduire et créer les visuels appropriés.
 
-Analyser la stratégie de l’annonceur, les points qu’il veut mettre en avant et en déduire le budget nécessaire.
+• Analyser la stratégie de l’annonceur, les points qu’il veut mettre en avant et en déduire le budget nécessaire.
 
-Déterminer la nature du visuel c’est-à-dire photo, dessin, figure, animaux, etc.
+• Déterminer la nature du visuel c’est-à-dire photo, dessin, figure, animaux, etc.
 
-Dégager la charte graphique : les styles de caractères, la taille des photos, l’emplacement du logo
+• Dégager la charte graphique : les styles de caractères, la taille des photos, l’emplacement du logo
 
-Etudier la conjoncture, l’audience ciblée ainsi que les entreprises concurrentielles.
+•Etudier la conjoncture, l’audience ciblée ainsi que les entreprises concurrentielles.
 
-Préparer et rédiger le brief créatif avec le concepteur rédacteur, présenté lors d’une réunion avec l’équipe artistique.
+• Préparer et rédiger le brief créatif avec le concepteur rédacteur, présenté lors d’une réunion avec l’équipe artistique.
 Organiser des ateliers de réflexion et définir des groupes de travail afin de concocter des publicités pointues.
 
-Avoir le sens du dessin.
+• Avoir le sens du dessin.
 
-Conceptualiser la stratégie via une maquette afin que le responsable de la communication puisse s’approprier les idées.
+• Conceptualiser la stratégie via une maquette afin que le responsable de la communication puisse s’approprier les idées.
 
-Maîtriser entièrement les logiciels Photoshop (image), Illustrator (dessin), InDesign (mise en page) et avoir une bonne connaissance des contraintes de fabrication.
+• Maîtriser entièrement les logiciels Photoshop (image), Illustrator (dessin), InDesign (mise en page) et avoir une bonne connaissance des contraintes de fabrication.
 
 Les entreprises qui peuvent recruter un Directeur artistique
+
 Agences de publicité.
 Agences de communication.
 Agences de presse.
