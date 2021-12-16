@@ -102,17 +102,20 @@ Ils travaillent dans l'industrie des TI, dans une entreprise qui produit des log
 ### Emploi 5 - Gestionnaire de projet
 Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port et coordonne tous les acteurs concernés par le projet, que ce soit par sa réalisation ou ses livrables. Il gère les impacts du projet, à la fois pendant sa réalisation et après sa finalisation. 
 
-Ses tâches :
+Ses tâches:
 
-• Informer tous les acteurs.
+• Coordonner les besoins des clients et les spécifications du projet, de la conception et production à l’étape d’implantation avec les membres de l’équipe
 
-• Maintenir le lien et l’intérêt de tous les acteurs.
+• Travailler avec l’équipe interne pour les volets de conception, de développement, de service à la clientèle, de ventes, et de marketing
 
-• Aller chercher l’information.
+• S’assurer que les projets soient bien estimés et planifiés en appliquant une méthodologie appropriée
 
-• Gérer les risques :Planifier et prévenir les changements.
+• Assigner des tâches aux différents membres de l’équipe et assurer un suivi afin que les livrables soient effectués dans les temps prévus
 
-• Faire face aux imprévus (budget, acteurs, besoins,…).
+• Préparer le tableau de bord pour les projets.
 
-• S’adapter pour toujours garder le cap.
+• Gérer et livrer les projets en respectant le budget et les délais.
 
+• Effectuer un suivi auprès des clients.
+
+•Se garder au courant des tendances et des meilleures pratiques de l’industrie.
