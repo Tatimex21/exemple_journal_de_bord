@@ -24,14 +24,22 @@ Le directeur artistique pilote une équipe de graphistes, de photographes, d’i
 
 Tâches:
 Analyser la communication du client, puis en déduire et créer les visuels appropriés.
+
 Analyser la stratégie de l’annonceur, les points qu’il veut mettre en avant et en déduire le budget nécessaire.
+
 Déterminer la nature du visuel c’est-à-dire photo, dessin, figure, animaux, etc.
+
 Dégager la charte graphique : les styles de caractères, la taille des photos, l’emplacement du logo
+
 Etudier la conjoncture, l’audience ciblée ainsi que les entreprises concurrentielles.
+
 Préparer et rédiger le brief créatif avec le concepteur rédacteur, présenté lors d’une réunion avec l’équipe artistique.
 Organiser des ateliers de réflexion et définir des groupes de travail afin de concocter des publicités pointues.
-Avoir le sens du dessin
+
+Avoir le sens du dessin.
+
 Conceptualiser la stratégie via une maquette afin que le responsable de la communication puisse s’approprier les idées.
+
 Maîtriser entièrement les logiciels Photoshop (image), Illustrator (dessin), InDesign (mise en page) et avoir une bonne connaissance des contraintes de fabrication.
 
 Les entreprises qui peuvent recruter un Directeur artistique
