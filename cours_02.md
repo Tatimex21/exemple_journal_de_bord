@@ -7,23 +7,33 @@ Le designer UX (design de l’expérience utilisateur) a pour objectif d’insé
 
 Ses tâches :
 
--Recueillir des données quant au comportement et besoins des utilisateurs
--Définir l'architecture logique de l'information
--Réaliser des prototypes, sketch et wireframe
--Associer les objectifs de l'entreprise et les besoins des utilisateurs
--Effectuer des tests sur les prototypes
--Collaborer avec d'autres spécialistes pour la réalisation du projet Web
--Surveiller l'utilisabilité du site ou de l'app
--Proposer des modifications pour améliorer l'expérience utilisateur
+-Recueillir des données quant au comportement et besoins des utilisateurs.
+
+-Définir l'architecture logique de l'information.
+
+-Réaliser des prototypes, sketch et wireframe.
+
+-Associer les objectifs de l'entreprise et les besoins des utilisateurs.
+
+-Effectuer des tests sur les prototypes.
+
+-Collaborer avec d'autres spécialistes pour la réalisation du projet Web.
+
+-Surveiller l'utilisabilité du site ou de l'app.
+
+-Proposer des modifications pour améliorer l'expérience utilisateur.
+
 
 Il travaille dans des Sociétés d'État, agences de communication, agences de publicité, entreprises ayant un site Web.
+
 Il collabore en permanence avec d’autres membres de l’équipe tels que le marketing, la rédaction, la programmation, le web designer, le UI design
 
 ### Emploi 2 - Directeur artistique
 Les directeurs artistiques créent, coordonnent et supervisent l'aspect visuel et artistique d'une production publicitaire (imprimée ou électronique), médiatique (télévision, radio, etc.), artistique (film, vidéo, danse, orchestre, pièce de théâtre, spectacle, etc.) ou de projets audiovisuels ou multimédias.
 Le directeur artistique pilote une équipe de graphistes, de photographes, d’illustrateurs, de réalisateurs de films, etc.
 
-Tâches:
+Ses tâches :
+
 Analyser la communication du client, puis en déduire et créer les visuels appropriés.
 
 Analyser la stratégie de l’annonceur, les points qu’il veut mettre en avant et en déduire le budget nécessaire.
