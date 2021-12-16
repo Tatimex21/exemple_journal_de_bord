@@ -97,7 +97,7 @@ Ses tâches :
 
 • Réaliser des tests et analyser les résultats
 
-Ils travaillent dans l'industrie des TI, dans une entreprise qui produit des logiciels et autres applications. 
+Ils travaillent dans l'industrie des TI, dans une entreprise qui produit des logiciels et autres applications et dans des entreprises qui installent et déboguent des logiciels internes.
 
 ### Emploi 5 - Gestionnaire de projet
 Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port et coordonne tous les acteurs concernés par le projet, que ce soit par sa réalisation ou ses livrables. Il gère les impacts du projet, à la fois pendant sa réalisation et après sa finalisation. 
