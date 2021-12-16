@@ -6,7 +6,7 @@ Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Par
 Le designer UX (user eXperience) est une évolution et une spécialisation récente du métier de web designer. S'intéresse à l'expérience utilisateur.
 
 ### Emploi 2 - Directeur artistique
-
+Les directeurs artistiques créent, coordonnent et supervisent l'aspect visuel et artistique d'une production publicitaire (imprimée ou électronique), médiatique (télévision, radio, etc.), artistique (film, vidéo, danse, orchestre, pièce de théâtre, spectacle, etc.) ou de projets audiovisuels ou multimédias.
 
 ### Emploi 3 - Développement Front-End
 
