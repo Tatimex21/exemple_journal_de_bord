@@ -5,6 +5,16 @@ Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Par
 ### Emploi 1 - Designer UX
 Le designer UX (design de l’expérience utilisateur) a pour objectif d’insérer du storytelling (mise en récit) dans une expérience d’utilisation pour faire naître de l’émotion chez l’internaute ; son rôle est donc plus stratégique. Il prend en compte les attentes et les besoins de l’utilisateur. Il doit rendre le site facile à trouver, accessible, créer la confiance, facile à prendre en main, crédible et productif.
 
+Tâches:
+-Recueillir des données quant au comportement et besoins des utilisateurs
+-Définir l'architecture logique de l'information
+-Réaliser des prototypes, sketch et wireframe
+-Associer les objectifs de l'entreprise et les besoins des utilisateurs
+-Effectuer des tests sur les prototypes
+-Collaborer avec d'autres spécialistes pour la réalisation du projet Web
+-Surveiller l'utilisabilité du site ou de l'app
+-Proposer des modifications pour améliorer l'expérience utilisateur
+
 ### Emploi 2 - Directeur artistique
 Les directeurs artistiques créent, coordonnent et supervisent l'aspect visuel et artistique d'une production publicitaire (imprimée ou électronique), médiatique (télévision, radio, etc.), artistique (film, vidéo, danse, orchestre, pièce de théâtre, spectacle, etc.) ou de projets audiovisuels ou multimédias.
 
