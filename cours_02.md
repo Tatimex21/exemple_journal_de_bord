@@ -3,7 +3,7 @@
 Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Expliquer avec qui les personnes travaillent. 
 
 ### Emploi 1 - Designer UX
-Le designer UX (user eXperience) est une évolution et une spécialisation récente du métier de web designer. S'intéresse à l'expérience utilisateur.
+Le designer UX (design de l’expérience utilisateur) a pour objectif d’insérer du storytelling (mise en récit) dans une expérience d’utilisation pour faire naître de l’émotion chez l’internaute ; son rôle est donc plus stratégique. Il prend en compte les attentes et les besoins de l’utilisateur. Il doit rendre le site facile à trouver, accessible, créer la confiance, facile à prendre en main, crédible et productif.
 
 ### Emploi 2 - Directeur artistique
 Les directeurs artistiques créent, coordonnent et supervisent l'aspect visuel et artistique d'une production publicitaire (imprimée ou électronique), médiatique (télévision, radio, etc.), artistique (film, vidéo, danse, orchestre, pièce de théâtre, spectacle, etc.) ou de projets audiovisuels ou multimédias.
