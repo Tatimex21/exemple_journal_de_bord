@@ -105,9 +105,14 @@ Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port e
 Ses tâches :
 
 • Informer tous les acteurs.
+
 • Maintenir le lien et l’intérêt de tous les acteurs.
+
 • Aller chercher l’information.
+
 • Gérer les risques :Planifier et prévenir les changements.
+
 • Faire face aux imprévus (budget, acteurs, besoins,…).
+
 • S’adapter pour toujours garder le cap.
 
