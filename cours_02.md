@@ -20,6 +20,7 @@ Il collabore en permanence avec d’autres membres de l’équipe tels que le ma
 
 ### Emploi 2 - Directeur artistique
 Les directeurs artistiques créent, coordonnent et supervisent l'aspect visuel et artistique d'une production publicitaire (imprimée ou électronique), médiatique (télévision, radio, etc.), artistique (film, vidéo, danse, orchestre, pièce de théâtre, spectacle, etc.) ou de projets audiovisuels ou multimédias.
+Le directeur artistique pilote une équipe de graphistes, de photographes, d’illustrateurs, de réalisateurs de films, etc.
 
 ### Emploi 3 - Développement Front-End
 Le développement web frontal (aussi appelé front-end en anglais) correspond aux productions HTML, CSS et JavaScript d’une page internet ou d’une application qu’un utilisateur peut voir et avec lesquelles il peut interagir directement.
