@@ -9,3 +9,4 @@ Une autre chose que j'aimerais utiliser et qui serait comme ma marque de fabriqu
 
 ## Lien vers la curation
 Insérer un lien de partage de votre Curation. 
+https://www.youtube.com/watch?v=w0ffwDYo00Q
