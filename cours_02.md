@@ -45,7 +45,7 @@ Ses tâches :
 •Etudier la conjoncture, l’audience ciblée ainsi que les entreprises concurrentielles.
 
 • Préparer et rédiger le brief créatif avec le concepteur rédacteur, présenté lors d’une réunion avec l’équipe artistique.
-Organiser des ateliers de réflexion et définir des groupes de travail afin de concocter des publicités pointues.
+• Organiser des ateliers de réflexion et définir des groupes de travail afin de concocter des publicités pointues.
 
 • Avoir le sens du dessin.
 
@@ -53,9 +53,7 @@ Organiser des ateliers de réflexion et définir des groupes de travail afin de 
 
 • Maîtriser entièrement les logiciels Photoshop (image), Illustrator (dessin), InDesign (mise en page) et avoir une bonne connaissance des contraintes de fabrication.
 
-Les entreprises qui peuvent recruter un Directeur artistique:
-
-Agences de publicité, agences de communication, agences de presse, milieu de l'édition, milieu audiovisuel, services créatifs en entreprise.
+Les entreprises qui peuvent recruter un directeur artistique: Agences de publicité, agences de communication, agences de presse, milieu de l'édition, milieu audiovisuel, services créatifs en entreprise.
 
 
 ### Emploi 3 - Développement Front-End
