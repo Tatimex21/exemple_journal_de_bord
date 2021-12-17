@@ -8,5 +8,5 @@ Mon expérience se situe plutôt dans le domaine des images fixes, mais je serai
 Une autre chose que j'aimerais utiliser et qui serait comme ma marque de fabrique, si je puis dire, c'est l'utilisation de l'humour.
 
 ## Lien vers la curation
-Insérer un lien de partage de votre Curation. 
+Une animation qui m'inspire est Simon's Cat, réalisée uniquement avec Adobe Flash. 
 https://www.youtube.com/watch?v=w0ffwDYo00Q
