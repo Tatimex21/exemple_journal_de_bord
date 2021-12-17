@@ -10,3 +10,7 @@ Une autre chose que j'aimerais utiliser et qui serait comme ma marque de fabriqu
 ## Lien vers la curation
 Une animation qui m'inspire est Simon's Cat, réalisée uniquement avec Adobe Flash. 
 https://www.youtube.com/watch?v=w0ffwDYo00Q
+
+
+Quelques exemples de mon travail
+https://www.youtube.com/watch?v=QUrxojPnx0c&t=7s
