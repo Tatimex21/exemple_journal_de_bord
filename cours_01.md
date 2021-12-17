@@ -5,7 +5,7 @@ Insérer une image ici:
 ![image1](image/Earth%20Day%20(web).jpg)
 *Dia de la tierra*
 **le jour de la terre**
- 
+ ![image1](image/06%20Aguacates.jpg)
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 s qui diffusent des nouvelles sur l'industrie.
