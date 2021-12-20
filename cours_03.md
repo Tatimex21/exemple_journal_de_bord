@@ -11,6 +11,9 @@ Une autre chose que j'aimerais utiliser et qui serait comme ma marque de commerc
 Une animation qui m'inspire est Simon's Cat, réalisée uniquement avec Adobe Flash. 
 https://www.youtube.com/watch?v=w0ffwDYo00Q
 
+Je suis intéressé par des projets de ce type Storytelling
+https://blubber.es/porfolio/animacion-corporativa-y-storytelling/
+
 
 Quelques exemples de mon travail
 https://www.youtube.com/watch?v=QUrxojPnx0c&t=7s
