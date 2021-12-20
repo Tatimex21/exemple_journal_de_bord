@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=w0ffwDYo00Q
 
 Je suis intéressé par des projets de ce type Storytelling
 https://blubber.es/porfolio/animacion-corporativa-y-storytelling/
+https://www.youtube.com/watch?v=Eb9YQUbKgx4
 
 
 Quelques exemples de mon travail
