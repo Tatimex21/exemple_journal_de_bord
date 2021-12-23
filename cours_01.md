@@ -14,7 +14,7 @@ Trouver 5 s qui diffusent des nouvelles sur l'industrie.
 Exemple: [Animation World Network](https://www.awn.com/)
 
 ### Lien 2 
-
+[Javier Mariscal](https://mariscal.com/en/welcome)
 
 ### Lien 3 
 
