@@ -11,7 +11,7 @@
 
 Premièrement, réfléchir aux aspects suivants: 
 * Quelles sont les forces de ce projet? 
-* Avec les changements dans la façon de lire les journaux, c'est-à-dire la disparition de la presse écrite au profit du web, la façon dont ce site web est présenté pourrait être une autre façon d'accompagner la lecture avec des animations.
+* Avec les changements dans la façon de lire les journaux, c'est-à-dire la disparition de la presse écrite au profit du web, la façon dont ce site web est présenté pourrait être une autre alternative d'accompagner la lecture avec des animations.
 * Quelles sont les faiblesses? 
 * J'imagine qu'il faut beaucoup de travail pour préparer les animations et je pense que cela prendra beaucoup de temps, avec le risque que l'article devienne obsolète avec le temps.
 * Quel est le processus de création de ce projet? 
