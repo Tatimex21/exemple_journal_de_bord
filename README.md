@@ -2,6 +2,13 @@
 ## [Cours 1](cours_01.md) 
 * Trouver 5 sites internet où il y a des nouvelles sur l'industrie.
 
+
+*Texte en italique*     
+**Texte en gras**    
+Texte test   
+Texte normal
+
+
 ## [Cours 2](cours_02.md) 
 * Décrire 5 emplois du domaine.
 
@@ -14,3 +21,6 @@
 
 ## [Cours 5](cours_05.md) 
 * Insérer le moodboard de votre projet. 
+
+## [Cours 9](cours_09.md) 
+* Analyse critique

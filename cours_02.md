@@ -5,6 +5,7 @@ Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Par
 ### Emploi 1 - Designer UX
 Le designer UX (design de l’expérience utilisateur) a pour objectif d’insérer du storytelling (mise en récit) dans une expérience d’utilisation pour faire naître de l’émotion chez l’internaute ; son rôle est donc plus stratégique. Il prend en compte les attentes et les besoins de l’utilisateur. Il doit rendre le site facile à trouver, accessible, créer la confiance, facile à prendre en main, crédible et productif.
 
+
 Ses tâches :
 
 • Recueillir des données quant au comportement et besoins des utilisateurs.
@@ -56,8 +57,9 @@ Ses tâches :
 Les entreprises qui peuvent recruter un directeur artistique: Agences de publicité, agences de communication, agences de presse, milieu de l'édition, milieu audiovisuel, services créatifs en entreprise.
 
 
-### Emploi 3 - Développement Front-End
 
+### Emploi 3 - Développement Front-End
+Front-End developers are responsible rendering the sites vision and design and making it functional with a focus on implementing technologies that are accessible to the user. 
 
 Le développeur front-end s’occupe de toute la partie visible du site : il doit développer des interfaces au code optimisé, qui facilitent l’accès des utilisateurs au contenu. Pour cela, il maitrise le CSS et le HTML5, CSS et JavaScript afin de respecter les normes W3C. Grâce à une bonne connaissance des langages de programmation, le développeur front-end optimise l’interface du site, tout en respectant les impératifs liés à l’accessibilité, la compatibilité des navigateurs et les terminaux (desktop, mobile, tablette).
 
@@ -76,6 +78,7 @@ Ses tâches :
 L’intégrateur intervient souvent en fin de parcours dans la création du site, et il doit collaborer avec les différentes parties qui ont contribué à la création du site, tels que les programmeurs, les graphistes, et les spécialistes du référencement
 
 ### Emploi 4 - Spécialiste QA
+
 Les testeurs assurance qualité testent et évaluent les performances des logiciels, applications et autres systèmes en phase de prélancement. En tant que testeur d'assurance qualité, vous aidez votre employeur à trouver et régler les problèmes liés aux logiciels, applications et autres produits avant qu'ils ne soient dévoilés au public.
 
 Ses tâches :
@@ -108,6 +111,7 @@ Ses tâches:
 • Préparer le tableau de bord pour les projets.
 
 • Gérer et livrer les projets en respectant le budget et les délais.
+
 
 • Effectuer un suivi auprès des clients.
 
