@@ -2,4 +2,6 @@
 ## Carte heuristique
 
 
-![image01](images/Hurojpg.jpg)
+Insérer une image de votre carte ici: 
+![Carte](image/Carte%20heuristique.jpg)
+

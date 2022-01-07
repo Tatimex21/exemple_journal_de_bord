@@ -1,41 +1,21 @@
 # Cours 3
 ## Est-ce qu'un secteur économique ou un type de produit m'attire en particulier? 
-Ideally I would like to be an artistic director and find uncommon solutions to create an original aesthetic and stand out from the competition 
 
-
-Je préfère le Secteur d’animation, je m’intéresse beaucoup au sujets de Bandes-annonces Vidéos promotionnelles  et Tutoriels vidéo  j’aimerais travaillé dans ce domaine.je préférée le dessin animé dans mon expérience se situe dans le domaine de PHOTOGRAPHIE et la montage mais je préfère m’améliore au domaine de animation .
-
+Une chose qui m'a toujours intéressé est l'illustration mélangée à la technologie, c'est-à-dire, accompagnée de mouvements et de sons, mais pas exactement l'illustration 3d.
+Je pourrais travailler dans des bureaux de conception graphique ou de production multimédia. Dans la publicité sur le web, ou dans certaines productions d'animation pour la télévision.
 
 ## Les styles qui m'intéressent
-
-I love the benefits of technology to automate workloads, but aesthetically keeping things classic and organic.  For example, I used effects in my digital sketches to give an aesthetic of drawing in physical mediums.  Also, I have developed my own effects in After Effects to automate these textures with video as a source and adding final touches of rotoscope for the main lines (seen in the youtube link)
-
-
-
-Personnellement je préfère l'image en mouvement .je trouve le vectoriel .
-
+Mon expérience se situe plutôt dans le domaine des images fixes, mais je serais plus intéressé par le fait de voir mes images bouger de manière matricielle car je pense que cela donne une touche plus "humaine", mais si je continue à apprendre d'autres ressources d'illustration vectorielle, je pourrais changer d'avis.
+Une autre chose que j'aimerais utiliser et qui serait comme ma marque de commerce, si je puis dire, c'est l'utilisation de l'humour.
 
 ## Lien vers la curation
+Une animation qui m'inspire est Simon's Cat, réalisée uniquement avec Adobe Flash. 
+https://www.youtube.com/watch?v=w0ffwDYo00Q
 
-The first four examples are my own, followed by examples that influence me. 
+Je suis intéressé par des projets de ce type Storytelling
+https://blubber.es/porfolio/animacion-corporativa-y-storytelling/
+https://www.youtube.com/watch?v=Eb9YQUbKgx4
 
-![image01](images/columbo.jpg)
-![image01](images/andrew.jpg)
-![image01](images/Bohol.jpg)
-![image01](images/tony.jpg)
 
-Example of Cross hatch effect in After Effects combined with Rotoscoped lines (https://youtu.be/dS1IOkKCs6k)
-
-Influential content:
-
-![image01](images/joel.jpg)
-
-Joel Haver https://youtu.be/tq_KOmXyVDo
-
-![image01](images/scanner.jpg)
-
-scanner Darkly (movie)
-
-![image01](images/garfield.gif)
-
-Garfield (circa 1987)
+Quelques exemples de mon travail
+https://www.youtube.com/watch?v=QUrxojPnx0c&t=7s

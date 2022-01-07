@@ -5,19 +5,20 @@ Insérer une image ici:
 _Une diffraction_
 **Lumineuse**
 
-![image01](images/holoyoga.png)
 
-
-Yoga: *the **only** morning routine for me*
+![image1](image/Earth%20Day%20(web).jpg)
+*Dia de la tierra*
+**le jour de la terre**
+ ![image1](image/06%20Aguacates.jpg)
 
 
 ## Liens vers des nouvelles de l'industrie
-Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
+Trouver 5 s qui diffusent des nouvelles sur l'industrie.
 
 ### Lien 1 
 
-**Trouver un emploi au**
-[Studios Mels](https://www.mels-studios.com/fr/)
+### Lien 2 
+[Javier Mariscal](https://mariscal.com/en/welcome)
 
 
 [Québec EPIX](https://www.quebecinternational.ca/fr/quebec-epix)
