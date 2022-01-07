@@ -17,7 +17,9 @@ Premièrement, réfléchir aux aspects suivants:
 * Quel est le processus de création de ce projet? 
 * J'imagine que les animations doivent être faites en fonction du thème de l'article, pour le déplacement des images dans chaque article, il n'est pas nécessaire d'en faire beaucoup, seulement avec un programme qui permet de déplacer les images d'un côté de l'écran à l'autre.
 * Qui participe à la création de ce projet? 
+* Tout d'abord, les rédacteurs, illustrateurs, concepteurs de sites web
 * Quel est le message derrière ce projet ou son objectif? 
+* L'objectif principal est d'informer ou de donner une opinion sur différents sujets.
 
 Écrire une analyse sur le projet. Amenez votre sujet grâce à une brève présentation de l’œuvre. Qui en sont les artistes?  Où est-elle présentée? 
 Posez votre sujet en nous mentionnant quel aspect de l’œuvre vous allez traiter. Divisez ensuite ce sujet en deux ou trois sous-sujets. 
