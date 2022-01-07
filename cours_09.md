@@ -36,6 +36,10 @@ Développement :
  Créez un paragraphe par sous-sujet que vous avez mentionné à l’introduction. Dans ce paragraphe, vous devez aborder ce sujet en l’expliquant, puis en donnant votre opinion à ce propos. Prenez le temps d’expliquer votre opinion. 
 
 Conclusion : 
+La qualité artistique de ce site m'a attiré par le concept de mélange de texte et d'images en noir et blanc qui ne provoquent pas de distractions dans la lecture, ce qui est l'objectif principal de ce site.
+Il n'est pas nécessaire d'inclure le son car, je crois que le but de ce site est d'approcher l'expérience de la lecture d'un livre ou d'un article de journal sur papier afin de rapprocher les lecteurs de cette réalité de plus en plus présente.
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
 
 Revenez sur les points principaux de votre texte. Faites une ouverture en nous mentionnant pourquoi cette œuvre vous a touché ou non.   
 
