@@ -11,7 +11,7 @@
 
 Premièrement, réfléchir aux aspects suivants: 
 * Quelles sont les forces de ce projet? 
-* Quelles sont les faiblesses? 
+* Quelles sont les faiblesses? J'imagine qu'il faut beaucoup de travail pour préparer les animations et je pense que cela prendra beaucoup de temps, avec le risque que l'article devienne obsolète avec le temps.
 * Quel est le processus de création de ce projet? 
 * Qui participe à la création de ce projet? 
 * Quel est le message derrière ce projet ou son objectif? 
