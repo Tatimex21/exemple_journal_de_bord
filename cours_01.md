@@ -1,9 +1,7 @@
 # Cours 1
 ## Insérer une image
 Insérer une image ici: 
-![doppler](Images/Lightshadows.jpg)
-_Une diffraction_
-**Lumineuse**
+
 
 
 ![image1](image/Earth%20Day%20(web).jpg)
