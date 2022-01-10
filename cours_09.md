@@ -3,7 +3,7 @@
 ## Analyse d'un projet créatif
 
 ### Le projet créatif
-[![L'Atelier](/L'atelier.JPG)](https://atelier.net/social-mobility/a-promise-broken/)
+[![L'Atelier](L'atelier.JPG)](https://atelier.net/social-mobility/a-promise-broken/)
     
     
 
